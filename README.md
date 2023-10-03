@@ -32,5 +32,5 @@ This data comes to us from the UCI Machine Learning repository and was collected
 - Drivers prefer coupons that expire in a day vs. the ones that expire in 2hrs
 - Higher acceptance rate for ages under 25 and who does atleast 1-3 Carry Away coupons
 
-#### Link to the Junyper Notebook can be found [here] (https://github.com/Sri-Kasturi/AIML---Practical-Application-1/blob/main/Practical_Application_Sri_Kasturi_GitHub.ipynb)
+##### Link to the Junyper Notebook can be found [here] (https://github.com/Sri-Kasturi/AIML---Practical-Application-1/blob/main/Practical_Application_Sri_Kasturi_GitHub.ipynb)
 
